@@ -1,0 +1,15 @@
+ÜLESANNE 9 - STARDIKOMPLEKT
+
+Paki ZIP lahti. Git-repositooriumi juurkaust on kaust, kus asuvad
+index.html, README.md, check_site.py ja peidetud .github kaust.
+Säilita .github/workflows/check.yml täpne asukoht.
+
+Vajad GitHubi kontot, töötavat Git push autentimist ja lubatud GitHub Actionsit.
+Iga õppija kasutab oma avalikku õpperepositooriumi. Ära lisa isikuandmeid.
+Ava index.html kohalikus brauseris. Serverit ega veebimajutust pole vaja.
+Python on vajalik ainult soovi korral kohaliku kontrolli jaoks.
+GitHub Actions paigaldab Pythoni automaatselt oma käivituskeskkonda.
+
+Järgi eraldi antud ülesande PDF-i. Ära muuda kontrollskripti ega workflow'd,
+et vigasest kontrollist mööda pääseda. Kasuta kaaslase PR-i hindamisel
+rea kommentaari ja Submit review > Comment; see ei vaja kirjutamisõigust.
